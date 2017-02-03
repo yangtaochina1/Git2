@@ -15,5 +15,7 @@ public class Main {
 	public void setName(String name) {
 		this.name = name;
 	}
-	
+	/**
+	 * 有bug 了。下面是修改bug 的代码
+	 */
 }
